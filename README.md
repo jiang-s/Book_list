@@ -5,16 +5,16 @@ Book_list and Blog_list
 
 Algorithm
 -----
-#CLRS. 算法导论，怎么强调都不过分了。
-【谁补充一点看书攻略。。。pull request】
+### CLRS. 算法导论，怎么强调都不过分了。
+        谁补充一点看书攻略。。。pull request
 
 *Nix elementary
 -----
 ### Harley Hahn.  Unix & Linux大学教程:
-翻译的不错，清晰易懂，后面部分介绍具体程序的使用可以略读。
+        翻译的不错，清晰易懂，后面部分介绍具体程序的使用可以略读。
 
 ### William Shotts. The Linux Command Line:
-cc版权的书，英文，但句式用词简单，阅读轻松。
+        cc版权的书，英文，但句式用词简单，阅读轻松。
 
 
 Programming Language
@@ -29,7 +29,10 @@ Application
     预计入门耗时：1小时信息搜集+ （1小时入门学习 + 1 小时实践探索），尽快应用到自己的项目(公开项目)中去。
 
 ### vim:
-    入门：直接在终端执行vimtutor (上面写要半小时，实际耗时1到2小时入门）,把vim运用到实际编程任务中去（主要是算法练习和脚本语言），在Eclipse中可以安装vim插件，在chrome中也有vim插件。vim的键位是Linux世界的一种通用设计，不信你在任何一款发行版自带的pdf阅读器中尝试按下j和k。
+    入门：直接在终端执行vimtutor (上面写要半小时，实际耗时1到2小时入门）,
+    把vim运用到实际编程任务中去（主要是算法练习和脚本语言）
+    在Eclipse中可以安装vim插件，在chrome中也有vim插件。
+    vim的键位是Linux世界的一种通用设计，不信你在任何一款发行版自带的pdf阅读器中尝试按下j和k。
 
 
 ...
