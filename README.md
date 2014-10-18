@@ -3,24 +3,27 @@ Book_list and Blog_list
 为防止滥用，不可简单列表，要有简要说明和参考信息。
 以下内容是范例，应该拆分到不同的md去
 
-Algorithm
+1.Algorithm
 -----
 ### CLRS. 算法导论，怎么强调都不过分了。
-        谁补充一点看书攻略。。。pull request
+    谁补充一点看书攻略。。。pull request
 
-*Nix elementary
+2.*Nix elementary
 -----
 ### Harley Hahn.  Unix & Linux大学教程:
-        翻译的不错，清晰易懂，后面部分介绍具体程序的使用可以略读。
+    翻译的不错，清晰易懂，后面部分介绍具体程序的使用可以略读。
 
 ### William Shotts. The Linux Command Line:
-        cc版权的书，英文，但句式用词简单，阅读轻松。
+    cc版权的书，英文，但句式用词简单，阅读轻松。
 
 
-Programming Language
+3.Programming Language
 ------
+### C
+    宋劲杉. Linux C 编程一站式学习
+    https://github.com/learning-linux-c-cpp
 
-Application
+4.Application
 ---------
 ### git and github: 
     总参考：http://www.zhihu.com/question/20070065  http://www.yangzhiping.com/tech/github.html
